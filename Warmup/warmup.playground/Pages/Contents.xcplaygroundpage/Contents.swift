@@ -3,6 +3,8 @@
  ## Contents
  
 Solutions to [HackerRank warm up](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup)
+ * [Solve Me First](Solve%20Me%20First)
+ * [Simple Array Sum](Simple%20Array%20Sum)
  * [Compare the Triplets](Compare%20the%20Triplets)
  * [A Very Big Sum](A%20Very%20Big%20Sum)
  * [Diagonal Difference](Diagonal%20Difference)
